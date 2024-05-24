@@ -1,6 +1,8 @@
-## Hi there 👋
+## Jeong Chae won 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chloebh9)](https://solved.ac/chloebh9/)
 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![Python](https://img.shields.io/badge/3776AB-3776AB.svg?&style=for-the-badge&logo=3776AB&logoColor=#3776AB)
 
 <!--
 **chloebh9/chloebh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
