@@ -1,4 +1,4 @@
-## Jeong Chae won 👋
+## I'm Jeong Chae won 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chloebh9)](https://solved.ac/chloebh9/)
 
 ### 🛠️ Tools
