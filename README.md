@@ -2,7 +2,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chloebh9)](https://solved.ac/chloebh9/)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![python](https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)
+![python](https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=python&logoColor=#3776AB)
 <--![python](https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)-->
 
 
