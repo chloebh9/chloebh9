@@ -2,7 +2,7 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=c4f5f1&height=150&section=header" /> -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=effc79&height=150&section=header" />
 
-## I'm Jeong Chae won 👋
+## HI! I'm Jeong Chae Won 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chloebh9)](https://solved.ac/chloebh9/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloebh9&layout=compact&langs_count=6&hide_title=true&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 
