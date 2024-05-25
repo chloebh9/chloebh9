@@ -1,5 +1,10 @@
+<!-- <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c4f5f1&height=150&section=header" />
+
+
 ## I'm Jeong Chae won 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chloebh9)](https://solved.ac/chloebh9/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chloebh9)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
@@ -12,7 +17,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<!--[python](https://img.shields.io/badge/python-#3776AB.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)-->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=c4f5f1&height=150&section=footer" />
 
 
 <!--
