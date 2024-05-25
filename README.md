@@ -1,5 +1,6 @@
 <!-- <img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c4f5f1&height=150&section=header" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=c4f5f1&height=150&section=header" /> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=effc79&height=150&section=header" />
 
 ## I'm Jeong Chae won 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chloebh9)](https://solved.ac/chloebh9/)
@@ -17,7 +18,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=c4f5f1&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=effc79&height=150&section=footer" />
 
 <!--
 **chloebh9/chloebh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
