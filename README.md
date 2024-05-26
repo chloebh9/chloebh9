@@ -19,6 +19,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+🌱 I’m currently learning ML & DL
+[My blog](https://doocong22.tistory.com/)
+
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=effc79&height=150&section=footer" />-->
 <!--
 **chloebh9/chloebh9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
